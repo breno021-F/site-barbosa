@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Colégio Estadual Barbosa Ferraz</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <header>
+    <div class="logo">Colégio Estadual Barbosa Ferraz</div>
+    <nav>
+      <ul>
+        <li><a href="index.html">Início</a></li>
+        <li><a href="ensino-medio.html">Ensino Médio</a></li>
+        <li><a href="tecnico-ds.html">Desenvolvimento de Sistemas</a></li>
+        <li><a href="formacao-docente.html">Formação de Docentes</a></li>
+        <li><a href="tecnico-estetica.html">Estética</a></li>
+        <li><a href="tecnico-enfermagem.html">Enfermagem</a></li>
+        <li><a href="tecnico-adm.html">Administração</a></li>
+        <li><a href="projetos.html">Projetos</a></li>
+        <li><a href="atividades.html">Atividades</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="banner">
+      <img src="imagens/banner-colegio.jpg" alt="Banner do Colégio" />
+      <h1>Bem-vindo ao Colégio Estadual Barbosa Ferraz</h1>
+      <p>Conheça nossos cursos técnicos, projetos e atividades!</p>
+    </section>
+  </main>
+</body>
+</html>
